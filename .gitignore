@@ -1,0 +1,12 @@
+# Entorno virtual
+env_rags/
+
+# Variables secretas
+.env
+config.json
+
+# Archivos de sistema Python
+__pycache__/
+
+# Bases de datos locales
+chroma/
