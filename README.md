@@ -23,8 +23,9 @@ chatbot_rags/
 ├── .gitignore                    # Lista de archivos y carpetas a ignorar
 ├── app.py                        # Interfaz Streamlit del chatbot
 ├── main.py                       # Lógica del chatbot: embeddings, prompt, memoria, etc.
-├── hoja_de_vida_juan_perez.pdf   # CV base para responder preguntas
+├── hoja_de_vida_juan_perez.pdf  # CV base para responder preguntas
 ├── requirements.txt              # Librerías necesarias para el entorno
+├── demo_chatbot.gif              # Vista previa del chatbot en funcionamiento
 ```
 
 ---
@@ -60,17 +61,15 @@ streamlit run app.py
 
 ---
 
-## 💡 Características
+## 🎥 Demo 
 
-- Conserva el contexto de las últimas 3 preguntas y respuestas, guardándolas en la memoria conversacional.
-- Procesa el documento en PDF y lo convierte en vectores (esta versión se configuró en chunk_size=500 y chunk_overlap=100).
-- Está optimizado para responder en **español** e **inglés**.
+![Demo](https://github.com/alvarezayelen11/chatbot_rags/blob/master/demo_chatbot.gif)
 
 ---
 
-## 📬 Contacto
+## 🧑‍💻 Authors
 
-Creado por [Ayelén Álvarez](https://www.linkedin.com/in/-ayelen-alvarez/)
+[Ayelén Álvarez](https://www.linkedin.com/in/-ayelen-alvarez/)
 
 ---
 
