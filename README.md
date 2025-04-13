@@ -67,12 +67,12 @@ streamlit run app.py
 
 ---
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Autor
 
 [Ayelén Álvarez](https://www.linkedin.com/in/-ayelen-alvarez/)
 
 ---
 
-## 📢 Feedback
+## ✉️ Feedback
 
-If you have any comments, please write to me.
+Si tenés algún comentario o sugerencia sobre el proyecto, no dudes en escribirme.
