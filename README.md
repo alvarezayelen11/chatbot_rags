@@ -34,7 +34,7 @@ chatbot_rags/
 
 1. Cloná el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/chatbot_rags.git
+git clone https://github.com/alvarezayelen11/chatbot_rags.git
 cd chatbot_rags
 ```
 
