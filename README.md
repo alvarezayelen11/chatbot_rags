@@ -63,7 +63,7 @@ streamlit run app.py
 
 ## 🎥 Demo 
 
-![Demo](https://github.com/alvarezayelen11/chatbot_rags/blob/master/demo_chatbot.gif)
+![Demo](https://raw.githubusercontent.com/alvarezayelen11/chatbot_rags/master/demo_chatbot.gif)
 
 ---
 
