@@ -1,5 +1,12 @@
 # 🤖 Asistente Virtual de Juan Pérez
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-black)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini_AI-orange?logo=google)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Embeddings-yellow?logo=huggingface)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+
 Este proyecto es un asistente virtual construido con **LangChain**, **Google Gemini AI** y **Streamlit** que responde preguntas sobre la hoja de vida (CV) de Juan Pérez. Permite interactuar con su perfil profesional a través de lenguaje natural.
 
 ---
